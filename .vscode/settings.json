@@ -1,0 +1,8 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.preserveFocus": false,
+    "python.terminal.executeInFileDir": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+}
